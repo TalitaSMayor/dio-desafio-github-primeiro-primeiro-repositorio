@@ -1,0 +1,25 @@
+Principais comando:
+
+cd - navegação entre pastas
+dir ou ls - listar
+mkdir - criar uma nova pasta
+del/rmdir ou rm -rf - deletar arquivo ou pasta
+cla ou clear/cotrl+l - limpar a tela
+TAB - completa o nome da pasta
+git clone + link - vai copiar o repositório
+git init - inicia um repositório
+git config --global user.name "colocar o nome" - cadastra um nome no git
+git config --global user.mail "colocar o email" - cadastra um email no git
+git add * - adiciona o arquivo e o coloca em staged (pronto para commitar)
+git commit -m "colocar explicação" - commita o arquivo
+mv nome do arquivo que quer mover ./pasta para onde quer mover/ - move o arquivo de uma pasta para outra
+git status - mostra o status daquela pasta ou arquivo
+git config --list - mostra todas as configurações que estão no git
+git remote -v - lista os repositórios remotos que tem
+git push nome master - envia o repositório para o GitHub
+git pull nome master - puxa o repositório do GitHub
+
+Links:
+
+https://git-scm.com/download/win - download Git
+https://www.markdownguide.org/basic-syntax/ - sintaxe básica markdown 
